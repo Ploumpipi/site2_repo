@@ -1,0 +1,6 @@
+body{
+	background-image: linear-gradient(white, grey);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	animation-name: anim;
+}
